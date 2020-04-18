@@ -1,0 +1,4 @@
+*.pdf
+.ipynb_checkpoints
+data/atlas-higgs-challenge-2014-v2.csv
+submission.csv
