@@ -1,8 +1,4 @@
-# ML-algorithms
+# higgs-project
 
-Bare-bones Machine Learning algorithms in Python.
+Higgs boson detection by simple ML.
 
-## Included
-- [Regression]
-  * [Linear Regression]
-  * [Polynomial Regression]
