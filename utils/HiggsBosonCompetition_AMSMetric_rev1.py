@@ -89,7 +89,7 @@ def AMS_metric(solution, submission):
                         signal += float(solutionDict[row[0]][1])
                     elif solutionDict[row[0]][0] == 'b':
                         background += float(solutionDict[row[0]][1])
-        print(str(AMS(signal, background)))
+        return AMS(signal, background)
 
 
 if __name__ == "__main__":
