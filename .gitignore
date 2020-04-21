@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 dataset/atlas-higgs-challenge-2014-v2.csv
 submission.csv
+rnd_forest.job
+xgboost.job
